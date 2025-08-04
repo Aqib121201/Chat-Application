@@ -134,7 +134,7 @@ Use multiple browser windows or tabs to simulate live users chatting in real-tim
 
 ---
 
-## � License
+##  License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
